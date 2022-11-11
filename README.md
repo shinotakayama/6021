@@ -10,6 +10,6 @@
 <p><a title="" href="https://shinotakayama.github.io/6021/note1.pdf"><span style="font-size: large;">Note 2</span></a></p>
 <p><a title="" href="https://shinotakayama.github.io/6021/note2.pdf"><span style="font-size: large;">Note 3</span></a></p>
 
-<p><a title="" href="www.shinotakayama.com">To Index Page</a></p>
+<p><a title="" href="http://www.shinotakayama.com">To Index Page</a></p>
 <p><a title="" href="https://shinotakayama.github.io/teaching/">To Teaching Top Page</a></p>
 <center>Write an email to <a href="mailto:s.takayama1@uq.edu.au">Shino</a> if you have any questions. <br /> <br /><span style="color: #ff0000; font-size: small;">Copyright Shino Takayama </span></center>
