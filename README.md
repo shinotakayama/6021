@@ -1,15 +1,15 @@
 <p align="center"><span style="font-size: x-large;">Financial Economics</span></p>
 <p align="center"><span style="font-size: x-large;">Some Slides and Notes</span></p>
-<p><a title="" href="../../6021/finance1.ppt"><span style="font-size: large;">Slide 1</span></a> Foundation for Financial Economics</p>
-<p><a title="" href="../../6021/ch12.ppt"><span style="font-size: large;">Slide 2</span></a> Market Efficiency and Behavioural Finance</p>
-<p><a title="" href="../../6021/ch13.pdf"><span style="font-size: large;">Slide 3</span></a> Empirical Evidence on Security Returns</p>
-<p><a title="" href="../../6021/ch18.ppt"><span style="font-size: large;">Slide 4</span></a> Equity Valuation Models</p>
-<p><a title="" href="../../6021/ch20.ppt"><span style="font-size: large;">Slide 5</span></a> Options Markets: Introduction</p>
-<p><a title="" href="../../6021/ch21.ppt"><span style="font-size: large;">Slide 6</span></a> Options and Futures</p>
-<p><a title="" href="../../6021/note.pdf"><span style="font-size: large;">Note 1</span></a></p>
-<p><a title="" href="../../6021/note1.pdf"><span style="font-size: large;">Note 2</span></a></p>
-<p><a title="" href="../../6021/note2.pdf"><span style="font-size: large;">Note 3</span></a></p>
+<p><a title="" href="https://shinotakayama.github.io/6021/finance1.ppt"><span style="font-size: large;">Slide 1</span></a> Foundation for Financial Economics</p>
+<p><a title="" href="https://shinotakayama.github.io/6021/ch12.ppt"><span style="font-size: large;">Slide 2</span></a> Market Efficiency and Behavioural Finance</p>
+<p><a title="" href="https://shinotakayama.github.io/6021/ch13.pdf"><span style="font-size: large;">Slide 3</span></a> Empirical Evidence on Security Returns</p>
+<p><a title="" href="https://shinotakayama.github.io/6021/ch18.ppt"><span style="font-size: large;">Slide 4</span></a> Equity Valuation Models</p>
+<p><a title="" href="https://shinotakayama.github.io/6021/ch20.ppt"><span style="font-size: large;">Slide 5</span></a> Options Markets: Introduction</p>
+<p><a title="" href="https://shinotakayama.github.io/6021/ch21.ppt"><span style="font-size: large;">Slide 6</span></a> Options and Futures</p>
+<p><a title="" href="https://shinotakayama.github.io/6021/note.pdf"><span style="font-size: large;">Note 1</span></a></p>
+<p><a title="" href="https://shinotakayama.github.io/6021/note1.pdf"><span style="font-size: large;">Note 2</span></a></p>
+<p><a title="" href="https://shinotakayama.github.io/6021/note2.pdf"><span style="font-size: large;">Note 3</span></a></p>
 
-<p><a title="" href="../index.html">To Index Page</a></p>
-<p><a title="" href="../teaching.html">To Teaching Top Page</a></p>
+<p><a title="" href="www.shinotakayama.com">To Index Page</a></p>
+<p><a title="" href="https://shinotakayama.github.io/teaching/">To Teaching Top Page</a></p>
 <center>Write an email to <a href="mailto:s.takayama1@uq.edu.au">Shino</a> if you have any questions. <br /> <br /><span style="color: #ff0000; font-size: small;">Copyright Shino Takayama </span></center>
